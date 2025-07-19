@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/build/clang-release",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -I\"C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/include\" -I\"C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/include/GLFW\" -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++20 -o CMakeFiles\\WaraWaraStarter.dir\\src\\main.cpp.obj -c \"C:\\Users\\tbmh1\\Projects\\Cam U\\warawaraexample\\wara_raw_opengl\\src\\main.cpp\"",
+  "file": "C:\\Users\\tbmh1\\Projects\\Cam U\\warawaraexample\\wara_raw_opengl\\src\\main.cpp",
+  "output": "CMakeFiles\\WaraWaraStarter.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/build/clang-release",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang.exe -I\"C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/include\" -I\"C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/include/GLFW\" -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o CMakeFiles\\WaraWaraStarter.dir\\src\\glad.c.obj -c \"C:\\Users\\tbmh1\\Projects\\Cam U\\warawaraexample\\wara_raw_opengl\\src\\glad.c\"",
+  "file": "C:\\Users\\tbmh1\\Projects\\Cam U\\warawaraexample\\wara_raw_opengl\\src\\glad.c",
+  "output": "CMakeFiles\\WaraWaraStarter.dir\\src\\glad.c.obj"
+},
+{
+  "directory": "C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/build/clang-release",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -I\"C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/include\" -I\"C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/include/GLFW\" -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++20 -o CMakeFiles\\WaraWaraStarter.dir\\src\\camera.cpp.obj -c \"C:\\Users\\tbmh1\\Projects\\Cam U\\warawaraexample\\wara_raw_opengl\\src\\camera.cpp\"",
+  "file": "C:\\Users\\tbmh1\\Projects\\Cam U\\warawaraexample\\wara_raw_opengl\\src\\camera.cpp",
+  "output": "CMakeFiles\\WaraWaraStarter.dir\\src\\camera.cpp.obj"
+},
+{
+  "directory": "C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/build/clang-release",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -I\"C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/include\" -I\"C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/include/GLFW\" -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++20 -o CMakeFiles\\WaraWaraStarter.dir\\src\\texture_loader.cpp.obj -c \"C:\\Users\\tbmh1\\Projects\\Cam U\\warawaraexample\\wara_raw_opengl\\src\\texture_loader.cpp\"",
+  "file": "C:\\Users\\tbmh1\\Projects\\Cam U\\warawaraexample\\wara_raw_opengl\\src\\texture_loader.cpp",
+  "output": "CMakeFiles\\WaraWaraStarter.dir\\src\\texture_loader.cpp.obj"
+}
+]

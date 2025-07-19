@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "minimap.background": "#FFFFFFC0",
+        "scrollbar.shadow": "#FFFFFFC0"
+    },
+    "makefile.compileCommandsPath": ".vscode/compile_commands.json",
+    "files.associations": {
+        "iosfwd": "cpp",
+        "sstream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    },
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}\\build\\clang-release\\compile_commands.json"
+}

@@ -1,0 +1,3 @@
+C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/build/clang-release/CMakeFiles/WaraWaraStarter.dir
+C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/build/clang-release/CMakeFiles/edit_cache.dir
+C:/Users/tbmh1/Projects/Cam U/warawaraexample/wara_raw_opengl/build/clang-release/CMakeFiles/rebuild_cache.dir

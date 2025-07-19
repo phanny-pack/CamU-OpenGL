@@ -1,0 +1,6 @@
+# ninja log v7
+6	247	7740660854805893	CMakeFiles/WaraWaraStarter.dir/src/camera.cpp.obj	bbed9674696e588a
+4	387	7740660854785923	CMakeFiles/WaraWaraStarter.dir/src/glad.c.obj	aa7a0717f12acec8
+13	1665	7740694405728489	CMakeFiles/WaraWaraStarter.dir/src/main.cpp.obj	83bc2b1c42064ef2
+549	635	7740685804695361	WaraWaraStarter.exe	94e2689361b726c5
+8	1147	7740695627586478	CMakeFiles/WaraWaraStarter.dir/src/texture_loader.cpp.obj	354ce9417f04c2d0
